@@ -1,7 +1,9 @@
 body {
     margin: 0;
     font-family: 'Source Sans Pro';
+    font-size: 12px;
 }
+    
 
 a {
     text-decoration: none;
@@ -28,6 +30,7 @@ a {
     display: flex;
     list-style: none;
     padding-left: 0;
+    font-size: 18px;
 }
 
 .navbar_menu li {
@@ -42,7 +45,8 @@ a {
     list-style: none;
     color: white;
     display: flex;
-    padding-left: 0;   
+    padding-left: 0;  
+    font-size: 15px;
 }
 
 .navbar_icons li {
